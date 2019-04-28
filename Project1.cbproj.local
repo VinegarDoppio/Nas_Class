@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2019.04.28 16:07:33.334,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2019.04.28 16:07:33.343,=C:\Users\User\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2019.04.28 16:07:49.660,C:\Users\User\Documents\Embarcadero\Studio\Projects\Os.h=C:\Users\User\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2019.04.28 16:08:04.458,C:\Users\User\Documents\Embarcadero\Studio\Projects\Pl.h=C:\Users\User\Documents\Embarcadero\Studio\Projects\Os.h</Transaction>
+    <Transaction>2019.04.28 16:13:09.815,=C:\Users\User\Documents\Embarcadero\Studio\Projects\File2.h</Transaction>
+    <Transaction>2019.04.28 16:13:18.689,C:\Users\User\Documents\Embarcadero\Studio\Projects\Pr.h=C:\Users\User\Documents\Embarcadero\Studio\Projects\File2.h</Transaction>
+    <Transaction>2019.04.28 16:35:39.455,C:\Users\User\Desktop\Наследование Class\File1.cpp=C:\Users\User\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2019.04.28 16:35:41.563,C:\Users\User\Desktop\Наследование Class\Pr.h=C:\Users\User\Documents\Embarcadero\Studio\Projects\Pr.h</Transaction>
+    <Transaction>2019.04.28 16:35:43.570,C:\Users\User\Desktop\Наследование Class\Pl.h=C:\Users\User\Documents\Embarcadero\Studio\Projects\Pl.h</Transaction>
+    <Transaction>2019.04.28 16:35:45.256,C:\Users\User\Desktop\Наследование Class\Project1.cbproj=C:\Users\User\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
